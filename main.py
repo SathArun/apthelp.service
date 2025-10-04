@@ -1,5 +1,5 @@
 """
-Start: uvicorn app:app --reload --port 8000
+Start: uvicorn app:app --reload --port 8080
 Env required: OPENAI_API_KEY, WEAVIATE_URL, WEAVIATE_API_KEY(optional)
 """
 
